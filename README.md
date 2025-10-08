@@ -1,5 +1,5 @@
 # 🩺 Medical Insurance Cost Analysis using Python
-
+ 
 ## 📘 Project Overview
 This project explores **factors influencing medical insurance charges** using a dataset of **1,338 individuals** from the U.S. healthcare system.  
 The analysis aims to understand how **age, gender, BMI, number of children, smoking status, and region** affect the **medical insurance cost (`charges`)** billed to individuals.  
