@@ -198,3 +198,28 @@ insurance[['age', 'charges']].corr()
 sns.set_style('whitegrid')
 sns.set_palette('coolwarm')
 ````````````````````````````
+## 📈 Key Findings Summary
+- **Smokers incur the highest costs** — ~4x higher than non-smokers.
+- **Charges increase sharply with age, especially for senior citizens.**
+- **BMI and smoking combined lead to the most expensive medical claims.**
+- **Regional variation is minimal, with the Southeast slightly higher.**
+- **No missing data ensures robust, reliable insights.**
+
+## ✅ Conclusions & Recommendations
+### 🧩 Conclusions
+- **Age and smoking are the most influential predictors of insurance charges.**
+- **BMI adds moderate impact, particularly for smokers.**
+- **Non-smokers and younger people represent the lowest-risk group.**
+
+### 💡 Recommendations
+- **Implement smoker-based premium multipliers.**
+- **Offer wellness and weight management programs to reduce BMI-related risks.**
+- **Create age-tiered premium plans for fair pricing.**
+- **Promote preventive health campaigns targeting middle-aged customers.**
+- **Maintain a strong non-smoker base to improve profitability.**
+
+## 👩‍💻 Author
+**Priyanka Lenka**
+**📍 Bhubneswar, India**
+**📧 lenkapriyanka20007@gmail.com**
+
