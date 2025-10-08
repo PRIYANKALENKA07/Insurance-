@@ -219,7 +219,7 @@ sns.set_palette('coolwarm')
 - **Maintain a strong non-smoker base to improve profitability.**
 
 ## 👩‍💻 Author
-**Priyanka Lenka**
-**📍 Bhubneswar, India**
-**📧 lenkapriyanka20007@gmail.com**
+- **Priyanka Lenka**
+- **📍 Bhubneswar, India**
+- **📧 lenkapriyanka20007@gmail.com**
 
