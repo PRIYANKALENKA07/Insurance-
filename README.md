@@ -222,5 +222,5 @@ sns.set_palette('coolwarm')
 - **Priyanka Lenka**
 - **📍 Bhubneswar, India**
 - **📧 lenkapriyanka20007@gmail.com**
-![Analysis Demo](https://raw.githubusercontent.com/PRIYANKALENKA07/Drug-Sale-Analysis/77f24e1ce7573baaed3212d4f272bc91f22eeebd/dashboard.png)
+![Analysis Demo](https://github.com/PRIYANKALENKA07/Insurance-/blob/main/insurance%20charges%20distribution.png)
 
